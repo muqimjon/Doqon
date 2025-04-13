@@ -1,0 +1,6 @@
+@Doqon.WebAPI_HostAddress = http://localhost:5016
+
+GET {{Doqon.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
